@@ -1,0 +1,12 @@
+{
+  "name": "av-sync-planner",
+  "version": "0.1.0",
+  "description": "Audio-master A/V sync planner: decides which video frames to display, drop, repeat or defer. No decoding, no player, no UI.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
